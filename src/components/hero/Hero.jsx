@@ -19,7 +19,7 @@ function Hero() {
               </div>
             </div>
             <div className="second-big">
-              <img src="/src/assets/main-all.png" alt="" />
+              <img src="../src/assets/main-all.png" alt="" />
             </div>
           </div>
         </section>
@@ -28,22 +28,22 @@ function Hero() {
             <h1>Product was Built Specifically for You</h1>
             <div className="cards">
               <div className="card1">
-                <img src="/src/assets/sec-2-card1.png" alt="" />
+                <img src="../src/assets/sec-2-card1.png" alt="" />
                 <h5>First click tests</h5>
                 <p>While most people enjoy casino gambling,</p>
               </div>
               <div className="card1">
-                <img src="/src/assets/sec-2-card2.png" alt="" />
+                <img src="../src/assets/sec-2-card2.png" alt="" />
                 <h5>Design surveys</h5>
                 <p>Sports betting, lottery and bingo playing for the fun</p>
               </div>
               <div className="card1">
-                <img src="/src/assets/sec-2-card3.png" alt="" />
+                <img src="../src/assets/sec-2-card3.png" alt="" />
                 <h5>Preference tests</h5>
                 <p>The Myspace page defines the individual.</p>
               </div>
               <div className="card1">
-                <img src="/src/assets/sec-2-card4.png" alt="" />
+                <img src="../src/assets/sec-2-card4.png" alt="" />
                 <h5>Five second tests</h5>
                 <p>
                   Personal choices and the overall personality of the person.{" "}
@@ -62,17 +62,17 @@ function Hero() {
             </p>
             <div className="cards1">
               <div className="cardd1">
-                <img src="/src/assets/sec-3-card1.png" alt="" />
+                <img src="../src/assets/sec-3-card1.png" alt="" />
                 <p>By Wahid Ari | 03 March 2019</p>
                 <h2>Increasing Prosperity With Positive Thinking</h2>
               </div>
               <div className="cardd1">
-                <img src="/src/assets/sec-3-card2.png" alt="" />
+                <img src="../src/assets/sec-3-card2.png" alt="" />
                 <p>By Wahid Ari | 03 March 2019</p>
                 <h2>Motivation Is The First Step To Success</h2>
               </div>
               <div className="cardd1">
-                <img src="/src/assets/sec-3-card3.png" alt="" />
+                <img src="../src/assets/sec-3-card3.png" alt="" />
                 <p>By Wahid Ari | 03 March 2019</p>
                 <h2>Success Steps For Your Personal Or Business</h2>
               </div>
@@ -148,18 +148,18 @@ function Hero() {
             <div className="cards3">
               <div className="cardd3">
                 <div className="stars">
-                  <img src="/src/assets/star-color.png" alt="" />
-                  <img src="/src/assets/star-color.png" alt="" />
-                  <img src="/src/assets/star-color.png" alt="" />
-                  <img src="/src/assets/star-color.png" alt="" />
-                  <img src="/src/assets/star-noColor.png" alt="" />
+                  <img src="../src/assets/star-color.png" alt="" />
+                  <img src="../src/assets/star-color.png" alt="" />
+                  <img src="../src/assets/star-color.png" alt="" />
+                  <img src="../src/assets/star-color.png" alt="" />
+                  <img src="../src/assets/star-noColor.png" alt="" />
                 </div>
                 <p className="cardd3-p">
                   Product helps you see how many more days you need to work to
                   reach your financial goal.
                 </p>
                 <div className="face">
-                  <img src="/src/assets/sec5-cardd-3-face.png" alt="" />
+                  <img src="../src/assets/sec5-cardd-3-face.png" alt="" />
                   <div className="face-2">
                     <h5>Wahid Ari</h5>
                     <h4>Designer</h4>
@@ -168,18 +168,18 @@ function Hero() {
               </div>
               <div className="cardd3">
                 <div className="stars">
-                  <img src="/src/assets/star-color.png" alt="" />
-                  <img src="/src/assets/star-color.png" alt="" />
-                  <img src="/src/assets/star-color.png" alt="" />
-                  <img src="/src/assets/star-color.png" alt="" />
-                  <img src="/src/assets/star-noColor.png" alt="" />
+                  <img src="../src/assets/star-color.png" alt="" />
+                  <img src="../src/assets/star-color.png" alt="" />
+                  <img src="../src/assets/star-color.png" alt="" />
+                  <img src="../src/assets/star-color.png" alt="" />
+                  <img src="../src/assets/star-noColor.png" alt="" />
                 </div>
                 <p className="cardd3-p">
                   Product helps you see how many more days you need to work to
                   reach your financial goal.
                 </p>
                 <div className="face">
-                  <img src="/src/assets/sec5-cardd-3-face-2.png" alt="" />
+                  <img src="../src/assets/sec5-cardd-3-face-2.png" alt="" />
                   <div className="face-2">
                     <h5>Wahid Ari</h5>
                     <h4>Designer</h4>
@@ -188,18 +188,18 @@ function Hero() {
               </div>
               <div className="cardd3">
                 <div className="stars">
-                  <img src="/src/assets/star-color.png" alt="" />
-                  <img src="/src/assets/star-color.png" alt="" />
-                  <img src="/src/assets/star-color.png" alt="" />
-                  <img src="/src/assets/star-color.png" alt="" />
-                  <img src="/src/assets/star-noColor.png" alt="" />
+                  <img src="../src/assets/star-color.png" alt="" />
+                  <img src="../src/assets/star-color.png" alt="" />
+                  <img src="../src/assets/star-color.png" alt="" />
+                  <img src="../src/assets/star-color.png" alt="" />
+                  <img src="../src/assets/star-noColor.png" alt="" />
                 </div>
                 <p className="cardd3-p">
                   Product helps you see how many more days you need to work to
                   reach your financial goal.
                 </p>
                 <div className="face">
-                  <img src="/src/assets/sec5-cardd-3-face-3.png" alt="" />
+                  <img src="../src/assets/sec5-cardd-3-face-3.png" alt="" />
                   <div className="face-2">
                     <h5>Wahid Ari</h5>
                     <h4>Designer</h4>
