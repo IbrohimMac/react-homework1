@@ -19,7 +19,7 @@ function Hero() {
               </div>
             </div>
             <div className="second-big">
-              <img src="./src/assets/main-all.png" alt="" />
+              <img src="src/assets/main-all.png" alt="" />
             </div>
           </div>
         </section>
